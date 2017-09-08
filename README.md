@@ -5,7 +5,7 @@ This is a tracker created for use with LttP Entrance Randomizers. This is a simp
 
 INSTRUCTIONS
 ----------------
-1. Open ENTTracker.html. This should reveal the LttP world map with green dots on it. Each circle is placed on an entrance in LttP (Ganon's Tower not included)
+1. Open ENTTracker.html. This should reveal the LttP world map with green circles added to it. Each circle is intended to mark an entrance in LttP (Ganon's Tower not included).
 2. Click a circle to change its color. Green, to white, to yellow, to red.
 
 SUGGESTIONS
